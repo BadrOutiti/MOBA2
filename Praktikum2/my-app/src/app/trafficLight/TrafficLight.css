@@ -1,0 +1,5 @@
+.trafficlight{
+    background-color: grey;
+    display: block;
+    padding: 20px; /* Gap from parent edges */
+}
