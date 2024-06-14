@@ -15,7 +15,7 @@ const SearchBar =  () => {
             navigation.navigate('ResultScreen', {username: text});
         }
         else{
-            ToastAndroid.show("User does not exist, please write the username of a valid user!", )
+            ToastAndroid.show("User does not exist, please write the username of a valid user!", 3)
         }
     };
 

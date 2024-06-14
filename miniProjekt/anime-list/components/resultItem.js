@@ -1,13 +1,13 @@
 import {View, Text, StyleSheet, TouchableOpacity} from 'react-native'
 import { useNavigation } from '@react-navigation/native'
 
-const ResultItem = ({title, text}) =>  {
+const ResultItem = ({title, text, type, username}) =>  {
 
     const navigation = useNavigation()
 
     const handleSearch = () => {
         // Navigate to the desired screen, passing the search text as a parameter
-        navigation.navigate('DetailsScreen');
+        navigation.navigate('DetailsScreen', {type: type, username: username});
     };
 
     return(
