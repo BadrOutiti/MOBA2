@@ -9,7 +9,7 @@ const DetailsScreen = ({route}) => {
     const getCorrectDetailsComponent = () => {
         switch(type){
             case "profile":
-                return <ProfileComponent/>
+                return <ProfileComponent username={username}/>
                 break;
             case "friends":
                 break;
