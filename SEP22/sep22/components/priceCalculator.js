@@ -7,7 +7,6 @@ export function PriceCalculator({ productArray }) {
         if (productArray.length === 0) return 0; // Check for empty array
 
         for (const product of productArray) { // Use 'for...of' to iterate over array elements
-            console.log(product); // This will log each product object
             calculatedPrice += parseFloat(product.price); // Use 'parseFloat' for prices with decimals
         }
         return calculatedPrice;
