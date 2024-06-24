@@ -1,0 +1,14 @@
+[
+{"companyName": "TopVar AG", "contact": "Paul Frey", "address": "Bahnhofstrasse 17\n8400 Zürich", "phones": [{"type": "Zentrale", "number": "+41 331 33 32"}, {"type": "Kontakt", "number": "+79 290 11 12"}], "contact_photo": "https://dublin.zhaw.ch/~stme/moba/photo1.png", "online" : true},
+{"companyName": "Walter Eigermann Metallbau", "contact": "Walter Eigenmann", "address": "Bernstrasse 12\n5000 Aarau", "phones": [{"type": "Kontakt", "number": "+41 79 112 98 44"}], "online" : true},
+{"companyName": "True Tone GmbH", "contact": "Rene Stadler", "address": "Lindenweg 18\n8606 Uster", "phones": [{"type": "Kontakt", "number": "+41 77 663 12 87"}], "contact_photo": "photo6", "online" : true},
+{"companyName": "AlphaOmega AG", "contact": "Marc Schiffmann", "address": "Briggerstrasse 194\n8400 Winterthur", "phones": [{"type": "Kontakt Marc", "number": "+41 77 666 12 44"}, {"type": "Kontakt Paul Walter", "number": "+41 77 345 88 44"}], "contact_photo": "https://dublin.zhaw.ch/~stme/moba/photo7.png", "online" : false},
+{"companyName": "Handelskontor AG", "contact": "Nicolas Benoit", "address": "Murtenstrasse 19\n3000 Bern", "phones": [{"type": "Kontakt", "number": "+41 767 54 84"}], "online" : false},
+{"companyName": "Mietauto.ch", "contact": "Walter Salzmann", "address": "Bahnweg 43\n8000 Zürich", "phones": [{"type": "Kontakt", "number": "+41 343 55 12"}], "online" : false},
+{"companyName": "Autolack Eggenberger", "contact": "Markus Eggenberger", "address": "Bahnweg 43\n8000 Zürich", "phones": [{"type": "Kontakt", "number": "+41 339 55 66"}], "contact_photo": "https://dublin.zhaw.ch/~stme/moba/photo4.png", "online" : false},
+{"companyName": "Oldtimervermietung Günther", "contact": "Daniel Günther", "address": "Waldweg 1\n8546 Islikon", "phones": [{"type": "Kontakt", "number": "+41 111 88 43"}], "contact_photo": "https://dublin.zhaw.ch/~stme/moba/photo5.png", "online" : false},
+{"companyName": "Autohaus Meier und Müller", "contact": "Peter Meier", "address": "Stadtlerstrasse 87\n8180 Bülach", "phones": [{"type": "Kontakt Meier", "number": "+41 333 11 44"}, {"type": "Kontakt Müller", "number": "+41 333 11 43"}], "contact_photo": "https://dublin.zhaw.ch/~stme/moba/photo3.png", "online" : true},
+{"companyName": "CarClean AG", "contact": "Daniel Schneiter", "address": "Feldstrasse 12\n8472 Seuzach", "phones": [{"type": "Kontakt", "number": "+41 666 53 00"}], "online" : true},
+{"companyName": "Walter Immobilien AG", "contact": "Urs Walter", "address": "Kirchgassse 23\n8424 Embrach", "phones": [{"type": "Kontakt", "number": "+41 543 00 11"}], "online" : false},
+{"companyName": "Gerätevermietung Peters", "contact": "Beat Peters", "address": "Riedmattstrasse 13\n8153 Rümlang", "phones": [{"type": "Kontakt", "number": "+41 333 00 51"}], "contact_photo": "https://dublin.zhaw.ch/~stme/moba/photo2.png", "online" : true}
+]
